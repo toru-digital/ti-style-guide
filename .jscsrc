@@ -1,9 +1,7 @@
 {
-  "disallowSpacesInsideBrackets": true,
   "disallowEmptyBlocks": true,
   "disallowSpacesInCallExpression": false,
   "requireSpacesInCallExpression": true,
-  "disallowSpacesInsideArrayBrackets": true,
   "disallowSpacesInsideParentheses": true,
   "disallowQuotedKeysInObjects": true,
   "disallowSpaceAfterObjectKeys": false,
@@ -45,7 +43,9 @@
   "requireDotNotation": true,
   "requireSpacesInForStatement": true,
   "requireSpacesInsideObjectBrackets": "all",
+  "requireSpacesInsideArrayBrackets": "all",
   "requireSpaceBetweenArguments": true,
+  "requireObjectKeysOnNewLine": true,
   "requireCurlyBraces": [
     "do"
   ],
