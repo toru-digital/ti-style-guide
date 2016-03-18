@@ -10,6 +10,9 @@
     "window",
     "document",
     "require",
-    "module"
+    "module",
+    "ionic",
+    "navigator",
+    "cordova"
   ]
 }
