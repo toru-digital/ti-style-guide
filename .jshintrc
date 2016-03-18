@@ -1,0 +1,15 @@
+{
+  "asi" : true,
+  "undef" : true,
+  "unused" : true,
+  "esversion" : 6,
+  "predef" : [
+    "angular",
+    "gapi",
+    "console",
+    "window",
+    "document",
+    "require",
+    "module"
+  ]
+}
