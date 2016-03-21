@@ -33,7 +33,9 @@
   },
   "globals": {
     "angular": true,
-    "gapi" : true
+    "gapi" : true,
+    "cordova" : true,
+    "ionic" : true
   },
   "parserOptions": {
       "ecmaVersion": 6,
