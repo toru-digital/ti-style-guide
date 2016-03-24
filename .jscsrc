@@ -20,6 +20,7 @@
   "disallowSpacesInsideTemplateStringPlaceholders": true,
   "disallowTrailingWhitespace": true,
   "disallowYodaConditions": true,
+  "disallowVar": true,
 
   "maximumLineLength": 90,
 
